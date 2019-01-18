@@ -1,4 +1,4 @@
-# eventbased_opticalflow
+# Event-based optical flow
 This repository contains scripts to compare the accuracy and computational cost of event-based optical flow against standard frame-based optical flow.
 
 The standard frame flow uses dense and sparse Lucas-Kanade variants implemented in opencv. 
